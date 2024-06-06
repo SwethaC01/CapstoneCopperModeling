@@ -1,4 +1,4 @@
-# CapstoneCopperModeling
+# CapstoneProject_IndustrialCopperModeling
 
 ## Project Overview
 This project involves understanding and preprocessing data,EDA and developing machine learning models to address challenges in the copper industry related to sales, pricing, and lead capturing. Specifically, the project focuses on building a regression model to predict the selling price and a classification model to predict the status (WON/LOST) of leads. Additionally, an interactive Streamlit web application will be created to facilitate real-time predictions using these models.
